@@ -1,7 +1,7 @@
 import './App.css'
-import Hero from './components/hero'
+import Hero from './components/Hero'
 import Highlights from './components/Highlights'
-import Navbar from './components/navbar'
+import Navbar from './components/Navbar'
 
 const App=()=> {
 
